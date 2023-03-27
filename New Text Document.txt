@@ -1,0 +1,29 @@
+**Project Name: -**  Kinetic.
+
+**Organization: -**  Kinetic Community LF?
+
+# [](https://github.com/Nikhil-TY/Kinetic_Project-analysis/blob/master/Kinetic%20stackedit.md#introduction--)Introduction: -
+Kinetic Data is a software programs that Provides a platform to develop and implement enterprise  business application
+
+Kinetic data allows the developer to access and use different tools for developing the developer required Enterprise business application.
+
+Kinetic dat Provides its own "No Username " license for the Enterprise business application developed in the platform Kinetic data.
+
+Kinetic data is an open source Project that follows "Apache License 2.0" under the open source . Apache license 2.9 s the license given open source which Provides access for the developers to view the architecture, technical details and some part of the source code.
+
+## Project Summary: -
+
+**Website:**  [https://community.kineticdata.com/docs](https://community.kineticdata.com/docs)
+
+**Organization or foundation name:**  Kinetic community LF?
+
+**License:**  no name user license model
+
+**Open / Proprietary:**  Open
+
+Components: -
+1) Kinetic Core,
+
+2)Kinetic Task,
+
+3) Kinetic Agent.
